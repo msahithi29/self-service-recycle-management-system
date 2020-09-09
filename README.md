@@ -29,11 +29,6 @@ Machine has a limit to the amount of items it can collect and the money it can p
 <b> Limitations: </b> </br>
 ● User has to manually enter the weight of the materials he / she wishes to recycle. In real life scenarios, sensors are expected to accurately weigh the same.  </br>
 </br>
-<h3> How to run the application: </h3> </br>
-1. keep the jar and ser file in the same path </br>
-2. Navigate to the path and double-click the jar file. Another way is to use the below statement for running the jar file </br>
-    Java -jar EcoRe.jar </br>
-
 </br>
 12 design patterns were identified out of which 8 are successfully implemented. </br>
 State Pattern </br>
@@ -51,3 +46,10 @@ Observer pattern </br>
 Abstract factory </br>
 Builder pattern (other areas) </br>
 Iterator Pattern (other areas) </br>
+
+<h3> How to run the application: </h3> </br>
+1. keep the jar and ser file in the same path </br>
+2. Navigate to the path and double-click the jar file. Another way is to use the below statement for running the jar file </br>
+    Java -jar EcoRe.jar </br>
+
+
