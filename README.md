@@ -34,3 +34,13 @@ Machine has a limit to the amount of items it can collect and the money it can p
 2. Navigate to the path and double-click the jar file. Another way is to use the below statement for running the jar file </br>
     Java -jar EcoRe.jar </br>
 
+</br>
+12 design patterns were identified out of which 8 are successfully implemented.
+State Pattern
+Iterator
+Builder
+Null
+Singleton
+Decorator
+Factory
+Strategy
