@@ -44,3 +44,10 @@ Singleton </br>
 Decorator </br>
 Factory </br>
 Strategy </br>
+
+Identitied ones but not implemented: </br>
+Mediator pattern </br>
+Observer pattern </br>
+Abstract factory </br>
+Builder pattern (other areas) </br>
+Iterator Pattern (other areas) </br>
