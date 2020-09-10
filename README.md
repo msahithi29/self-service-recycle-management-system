@@ -1,5 +1,5 @@
 # self-service-recycle-management-system
-Designed and developed a desktop self-service recycle management system that consists of multiple units spread across various locations and a centralized station with administrator’s control that monitor these recycling units.  </br>
+This desktop self-service recycle management system consists of multiple units spread across various locations and a centralized station with administrator’s control that monitor these recycling units.  </br>
 <b> Centralized Station: </b> </br>
 This system can be accessed only by the administrators using their credentials. admin is the username and pwd. Every station monitors a group of machines and can do actions such as:  </br>
 ● Add machine  </br>
